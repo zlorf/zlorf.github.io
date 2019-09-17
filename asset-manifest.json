@@ -1,6 +1,24 @@
 {
-  "main.css": "static/css/main.66b9f2aa.css",
-  "main.css.map": "static/css/main.66b9f2aa.css.map",
-  "main.js": "static/js/main.e5f9df4e.js",
-  "main.js.map": "static/js/main.e5f9df4e.js.map"
+  "main.css": "static/css/main.11d7bba0.css",
+  "main.css.map": "static/css/main.11d7bba0.css.map",
+  "main.js": "static/js/main.91a1dc57.js",
+  "main.js.map": "static/js/main.91a1dc57.js.map",
+  "static/media/3spears.png": "static/media/3spears.4da1cdd3.png",
+  "static/media/angryface.png": "static/media/angryface.61d26e1d.png",
+  "static/media/brute.png": "static/media/brute.0d318f8f.png",
+  "static/media/circles.png": "static/media/circles.66022ed0.png",
+  "static/media/cragheart.png": "static/media/cragheart.6e1c09e8.png",
+  "static/media/cthulhu.png": "static/media/cthulhu.6c07375e.png",
+  "static/media/eclipse.png": "static/media/eclipse.fdd09bf4.png",
+  "static/media/eye.png": "static/media/eye.33291d26.png",
+  "static/media/lightning.png": "static/media/lightning.fb9e4525.png",
+  "static/media/mindthief.png": "static/media/mindthief.7f8809b4.png",
+  "static/media/music.png": "static/media/music.f47b3b30.png",
+  "static/media/saw.png": "static/media/saw.762ffc36.png",
+  "static/media/scoundrel.png": "static/media/scoundrel.7c81f571.png",
+  "static/media/spellweaver.png": "static/media/spellweaver.0ca0e5b3.png",
+  "static/media/sun.png": "static/media/sun.618b1c3e.png",
+  "static/media/tinkerer.png": "static/media/tinkerer.4cab96b6.png",
+  "static/media/triangles.png": "static/media/triangles.9169f920.png",
+  "static/media/twomini.png": "static/media/twomini.c1cb7a24.png"
 }
